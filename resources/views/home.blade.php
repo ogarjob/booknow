@@ -7,7 +7,7 @@
                 <div class="rounded-3 p-3 p-sm-5" style="background-image: url({{ asset('images/bg/05.jpg') }}); background-position: center center; background-repeat: no-repeat; background-size: cover;">
                     <div class="row my-2 my-xl-5">
                         <div class="col-md-8 mx-auto">
-                            <h2 class="text-center text-white">147 Apartments in Nigeria</h2>
+                            <h2 class="text-center text-white">140+ Nigerian Apartments</h2>
                         </div>
                     </div>
                     <!-- Booking from START -->
@@ -78,17 +78,14 @@
                                                         <button type="button" class="btn btn-link child-add p-0 mb-0" ><i class="bi bi-plus-circle fs-5 fa-fw"></i></button>
                                                     </div>
                                                 </li>
-
                                                 <!-- Divider -->
                                                 <li class="dropdown-divider"></li>
-
                                                 <!-- Rooms -->
                                                 <li class="d-flex justify-content-between">
                                                     <div>
                                                         <h6 class="mb-0">Rooms</h6>
                                                         <small>Max room 8</small>
                                                     </div>
-
                                                     <div class="hstack gap-1 align-items-center">
                                                         <button type="button" class="btn btn-link room-remove p-0 mb-0" ><i class="bi bi-dash-circle fs-5 fa-fw"></i></button>
                                                         <h6 class="guest-selector-count mb-0 rooms">1</h6>
@@ -110,14 +107,10 @@
                 </div>
             </div>
         </section>
-        <!-- =======================
-        Main Banner END -->
-
-        <!-- =======================
-        Title and Tabs START -->
+        <!-- Main Banner END -->
+        <!-- Title and Tabs START -->
         <section class="pt-0 pb-4">
             <div class="container position-relative">
-
                 <!-- Title and button START -->
                 <div class="row">
                     <div class="col-12">
@@ -128,7 +121,6 @@
                             <label class="btn btn-primary-soft btn-primary-check mb-0" for="btn-check-soft" data-bs-toggle="collapse" data-bs-target="#collapseFilter" aria-controls="collapseFilter">
                                 <i class="bi fa-fe bi-sliders me-2"></i>Show Filters
                             </label>
-
                             <!-- tabs -->
                             <ul class="nav nav-pills nav-pills-dark" id="tour-pills-tab" role="tablist">
                                 <!-- Tab item -->
@@ -145,11 +137,9 @@
                     </div>
                 </div>
                 <!-- Title and button END -->
-
                 <!-- Collapse body START -->
                 <div class="collapse" id="collapseFilter">
                     <div class="card card-body bg-light p-4 mt-4 z-index-9">
-
                         <!-- Form START -->
                         <form class="row g-4">
                             <!-- Input item -->
@@ -159,7 +149,6 @@
                                     <input type="text" class="form-control form-control-lg">
                                 </div>
                             </div>
-
                             <!-- nouislider item -->
                             <div class="col-md-6 col-lg-4">
                                 <div class="form-control-borderless">
@@ -175,7 +164,6 @@
                                     </div>
                                 </div>
                             </div>
-
                             <!-- Select item -->
                             <div class="col-md-6 col-lg-4">
                                 <div class="form-size-lg form-control-borderless">
@@ -188,7 +176,6 @@
                                     </select>
                                 </div>
                             </div>
-
                             <!-- Customer rating -->
                             <div class="col-md-6 col-lg-4">
                                 <div class="form-control-borderless">
@@ -217,7 +204,6 @@
                                     </ul>
                                 </div>
                             </div>
-
                             <!-- Star rating -->
                             <div class="col-md-6 col-lg-4">
                                 <div class="form-control-borderless">
@@ -251,7 +237,6 @@
                                     </ul>
                                 </div>
                             </div>
-
                             <!-- Select item -->
                             <div class="col-md-6 col-lg-4">
                                 <div class="form-size-lg form-control-borderless">
@@ -264,7 +249,6 @@
                                     </select>
                                 </div>
                             </div>
-
                             <!-- Check box item -->
                             <div class="col-12">
                                 <div class="form-control-borderless">
@@ -279,7 +263,6 @@
                                                 </label>
                                             </div>
                                         </div>
-
                                         <!-- checkbox -->
                                         <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2">
                                             <div class="form-check">
@@ -289,7 +272,6 @@
                                                 </label>
                                             </div>
                                         </div>
-
                                         <!-- checkbox -->
                                         <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2">
                                             <div class="form-check">
@@ -299,7 +281,6 @@
                                                 </label>
                                             </div>
                                         </div>
-
                                         <!-- checkbox -->
                                         <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2">
                                             <div class="form-check">
@@ -309,7 +290,6 @@
                                                 </label>
                                             </div>
                                         </div>
-
                                         <!-- checkbox -->
                                         <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2">
                                             <div class="form-check">
@@ -319,7 +299,6 @@
                                                 </label>
                                             </div>
                                         </div>
-
                                         <!-- checkbox -->
                                         <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2">
                                             <div class="form-check">
@@ -329,7 +308,6 @@
                                                 </label>
                                             </div>
                                         </div>
-
                                         <!-- checkbox -->
                                         <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2">
                                             <div class="form-check">
@@ -339,7 +317,6 @@
                                                 </label>
                                             </div>
                                         </div>
-
                                         <!-- checkbox -->
                                         <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2">
                                             <div class="form-check">
@@ -349,7 +326,6 @@
                                                 </label>
                                             </div>
                                         </div>
-
                                         <!-- checkbox -->
                                         <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2">
                                             <div class="form-check">
@@ -359,7 +335,6 @@
                                                 </label>
                                             </div>
                                         </div>
-
                                         <!-- checkbox -->
                                         <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2">
                                             <div class="form-check">
@@ -369,7 +344,6 @@
                                                 </label>
                                             </div>
                                         </div>
-
                                         <!-- checkbox -->
                                         <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2">
                                             <div class="form-check">
@@ -379,7 +353,6 @@
                                                 </label>
                                             </div>
                                         </div>
-
                                         <!-- checkbox -->
                                         <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2">
                                             <div class="form-check">
@@ -392,7 +365,6 @@
                                     </div> <!-- Row END -->
                                 </div>
                             </div>
-
                             <!-- Button -->
                             <div class="text-end align-items-center">
                                 <button class="btn btn-link p-0 mb-0">Clear all</button>
@@ -403,18 +375,13 @@
                     </div>
                 </div>
                 <!-- Collapse body END -->
-
             </div>
         </section>
-        <!-- =======================
-        Title and Tabs END -->
-
-        <!-- =======================
-        Hotel grid START -->
+        <!-- Title and Tabs END -->
+        <!-- Hotel grid START -->
         <section class="pt-0">
             <div class="container">
                 <div class="row g-4">
-
                     <!-- Card item START -->
                     <div class="col-md-6 col-xl-4">
                         <div class="card shadow p-2 pb-0 h-100">
@@ -422,25 +389,16 @@
                             <div class="position-absolute top-0 start-0 z-index-1 m-4">
                                 <div class="badge bg-danger text-white">30% Off</div>
                             </div>
-
                             <!-- Slider START -->
                             <div class="tiny-slider arrow-round arrow-xs arrow-dark rounded-2 overflow-hidden">
                                 <div class="tiny-slider-inner" data-autoplay="false" data-arrow="true" data-dots="false" data-items="1">
-                                    <!-- Image item -->
                                     <div><img src="{{ asset('images/category/hotel/4by3/09.jpg') }}" alt="Card image"></div>
-
-                                    <!-- Image item -->
                                     <div><img src="{{ asset('images/category/hotel/4by3/02.jpg') }}" alt="Card image"></div>
-
-                                    <!-- Image item -->
                                     <div><img src="{{ asset('images/category/hotel/4by3/03.jpg') }}" alt="Card image"></div>
-
-                                    <!-- Image item -->
                                     <div><img src="{{ asset('images/category/hotel/4by3/01.jpg') }}" alt="Card image"></div>
                                 </div>
                             </div>
                             <!-- Slider END -->
-
                             <!-- Card body START -->
                             <div class="card-body px-3 pb-0">
                                 <!-- Rating and cart -->
@@ -448,10 +406,8 @@
                                     <a href="#" class="badge bg-dark text-white"><i class="bi fa-fw bi-star-fill me-2 text-warning"></i>4.5</a>
                                     <a href="#" class="h6 mb-0 z-index-2"><i class="bi fa-fw bi-bookmark"></i></a>
                                 </div>
-
                                 <!-- Title -->
                                 <h5 class="card-title"><a href="hotel-detail.html">Hotel Baljees Regency</a></h5>
-
                                 <!-- List -->
                                 <ul class="nav nav-divider mb-2 mb-sm-3">
                                     <li class="nav-item">Air Conditioning</li>
@@ -461,7 +417,6 @@
                                 </ul>
                             </div>
                             <!-- Card body END -->
-
                             <!-- Card footer START-->
                             <div class="card-footer pt-0">
                                 <!-- Price and Button -->
@@ -481,13 +436,11 @@
                         </div>
                     </div>
                     <!-- Card item END -->
-
                     <!-- Card item START -->
                     <div class="col-md-6 col-xl-4">
                         <div class="card shadow p-2 pb-0 h-100">
                             <!-- Image -->
                             <img src="{{ asset('images/category/hotel/4by3/10.jpg') }}" class="rounded-2" alt="Card image">
-
                             <!-- Card body START -->
                             <div class="card-body px-3 pb-0">
                                 <!-- Rating and cart -->
@@ -495,10 +448,8 @@
                                     <a href="#" class="badge bg-dark text-white"><i class="bi fa-fw bi-star-fill me-2 text-warning"></i>4.0</a>
                                     <a href="#" class="h6 mb-0 z-index-2"><i class="bi fa-fw bi-bookmark"></i></a>
                                 </div>
-
                                 <!-- Title -->
                                 <h5 class="card-title"><a href="hotel-detail.html">Courtyard by Marriott New York </a></h5>
-
                                 <!-- List -->
                                 <ul class="nav nav-divider mb-2 mb-sm-3">
                                     <li class="nav-item">Air Conditioning</li>
@@ -508,7 +459,6 @@
                                 </ul>
                             </div>
                             <!-- Card body END -->
-
                             <!-- Card footer START-->
                             <div class="card-footer pt-0">
                                 <!-- Price and Button -->
@@ -527,13 +477,11 @@
                         </div>
                     </div>
                     <!-- Card item END -->
-
                     <!-- Card item START -->
                     <div class="col-md-6 col-xl-4">
                         <div class="card shadow p-2 pb-0 h-100">
                             <!-- Image -->
                             <img src="{{ asset('images/category/hotel/4by3/08.jpg') }}" class="rounded-2" alt="Card image">
-
                             <!-- Card body START -->
                             <div class="card-body px-3 pb-0">
                                 <!-- Rating and cart -->
@@ -541,10 +489,8 @@
                                     <a href="#" class="badge bg-dark text-white"><i class="bi fa-fw bi-star-fill me-2 text-warning"></i>4.8</a>
                                     <a href="#" class="h6 mb-0 z-index-2"><i class="bi fa-fw bi-bookmark-fill text-danger"></i></a>
                                 </div>
-
                                 <!-- Title -->
                                 <h5 class="card-title"><a href="hotel-detail.html">Club Quarters Hotel</a></h5>
-
                                 <!-- List -->
                                 <ul class="nav nav-divider mb-2 mb-sm-3">
                                     <li class="nav-item">Air Conditioning</li>
@@ -554,7 +500,6 @@
                                 </ul>
                             </div>
                             <!-- Card body END -->
-
                             <!-- Card footer START-->
                             <div class="card-footer pt-0">
                                 <!-- Price and Button -->
@@ -573,13 +518,11 @@
                         </div>
                     </div>
                     <!-- Card item END -->
-
                     <!-- Card item START -->
                     <div class="col-md-6 col-xl-4">
                         <div class="card shadow p-2 pb-0 h-100">
                             <!-- Image -->
                             <img src="{{ asset('images/category/hotel/4by3/07.jpg') }}" class="rounded-2" alt="Card image">
-
                             <!-- Card body START -->
                             <div class="card-body px-3 pb-0">
                                 <!-- Rating and cart -->
@@ -587,10 +530,8 @@
                                     <a href="#" class="badge bg-dark text-white"><i class="bi fa-fw bi-star-fill me-2 text-warning"></i>4.8</a>
                                     <a href="#" class="h6 mb-0 z-index-2"><i class="bi fa-fw bi-bookmark-fill text-danger"></i></a>
                                 </div>
-
                                 <!-- Title -->
                                 <h5 class="card-title"><a href="hotel-detail.html">Beverly Hills Marriott</a></h5>
-
                                 <!-- List -->
                                 <ul class="nav nav-divider mb-2 mb-sm-3">
                                     <li class="nav-item">Air Conditioning</li>
@@ -600,7 +541,6 @@
                                 </ul>
                             </div>
                             <!-- Card body END -->
-
                             <!-- Card footer START-->
                             <div class="card-footer pt-0">
                                 <!-- Price and Button -->
@@ -619,13 +559,11 @@
                         </div>
                     </div>
                     <!-- Card item END -->
-
                     <!-- Card item START -->
                     <div class="col-md-6 col-xl-4">
                         <div class="card shadow p-2 pb-0 h-100">
                             <!-- Image -->
                             <img src="{{ asset('images/category/hotel/4by3/02.jpg') }}" class="rounded-2" alt="Card image">
-
                             <!-- Card body START -->
                             <div class="card-body px-3 pb-0">
                                 <!-- Rating and cart -->
@@ -633,10 +571,8 @@
                                     <a href="#" class="badge bg-dark text-white"><i class="bi fa-fw bi-star-fill me-2 text-warning"></i>4.5</a>
                                     <a href="#" class="h6 mb-0 z-index-2"><i class="bi fa-fw bi-bookmark"></i></a>
                                 </div>
-
                                 <!-- Title -->
                                 <h5 class="card-title"><a href="hotel-detail.html">Courtyard by Marriott New York </a></h5>
-
                                 <!-- List -->
                                 <ul class="nav nav-divider mb-2 mb-sm-3">
                                     <li class="nav-item">Air Conditioning</li>
@@ -646,7 +582,6 @@
                                 </ul>
                             </div>
                             <!-- Card body END -->
-
                             <!-- Card footer START-->
                             <div class="card-footer pt-0">
                                 <!-- Price and Button -->
@@ -665,13 +600,11 @@
                         </div>
                     </div>
                     <!-- Card item END -->
-
                     <!-- Card item START -->
                     <div class="col-md-6 col-xl-4">
                         <div class="card shadow p-2 pb-0 h-100">
                             <!-- Image -->
                             <img src="{{ asset('images/category/hotel/4by3/05.jpg') }}" class="rounded-2" alt="Card image">
-
                             <!-- Card body START -->
                             <div class="card-body px-3 pb-0">
                                 <!-- Rating and cart -->
@@ -679,10 +612,8 @@
                                     <a href="#" class="badge bg-dark text-white"><i class="bi fa-fw bi-star-fill me-2 text-warning"></i>4.4</a>
                                     <a href="#" class="h6 mb-0 z-index-2"><i class="bi fa-fw bi-bookmark"></i></a>
                                 </div>
-
                                 <!-- Title -->
                                 <h5 class="card-title"><a href="hotel-detail.html">Park Plaza Lodge Hotel</a></h5>
-
                                 <!-- List -->
                                 <ul class="nav nav-divider mb-2 mb-sm-3">
                                     <li class="nav-item">Air Conditioning</li>
@@ -692,7 +623,6 @@
                                 </ul>
                             </div>
                             <!-- Card body END -->
-
                             <!-- Card footer START-->
                             <div class="card-footer pt-0">
                                 <!-- Price and Button -->
@@ -708,17 +638,14 @@
                                     </div>
                                 </div>
                             </div>
-
                         </div>
                     </div>
                     <!-- Card item END -->
-
                     <!-- Card item START -->
                     <div class="col-md-6 col-xl-4">
                         <div class="card shadow p-2 pb-0 h-100">
                             <!-- Image -->
                             <img src="{{ asset('images/category/hotel/4by3/04.jpg') }}" class="rounded-2" alt="Card image">
-
                             <!-- Card body START -->
                             <div class="card-body px-3 pb-0">
                                 <!-- Rating and cart -->
@@ -726,10 +653,8 @@
                                     <a href="#" class="badge bg-dark text-white"><i class="bi fa-fw bi-star-fill me-2 text-warning"></i>4.0</a>
                                     <a href="#" class="h6 mb-0 z-index-2"><i class="bi fa-fw bi-bookmark"></i></a>
                                 </div>
-
                                 <!-- Title -->
                                 <h5 class="card-title"><a href="hotel-detail.html">Royal Beach Resort</a></h5>
-
                                 <!-- List -->
                                 <ul class="nav nav-divider mb-2 mb-sm-3">
                                     <li class="nav-item">Air Conditioning</li>
@@ -739,7 +664,6 @@
                                 </ul>
                             </div>
                             <!-- Card body END -->
-
                             <!-- Card footer START-->
                             <div class="card-footer pt-0">
                                 <!-- Price and Button -->
@@ -758,13 +682,11 @@
                         </div>
                     </div>
                     <!-- Card item END -->
-
                     <!-- Card item START -->
                     <div class="col-md-6 col-xl-4">
                         <div class="card shadow p-2 pb-0 h-100">
                             <!-- Image -->
                             <img src="{{ asset('images/category/hotel/4by3/03.jpg') }}" class="rounded-2" alt="Card image">
-
                             <!-- Card body START -->
                             <div class="card-body px-3 pb-0">
                                 <!-- Rating and cart -->
@@ -772,10 +694,8 @@
                                     <a href="#" class="badge bg-dark text-white"><i class="bi fa-fw bi-star-fill me-2 text-warning"></i>3.8</a>
                                     <a href="#" class="h6 mb-0 z-index-2"><i class="bi fa-fw bi-bookmark-fill text-danger"></i></a>
                                 </div>
-
                                 <!-- Title -->
                                 <h5 class="card-title"><a href="hotel-detail.html">Pride moon Village Resort & Spa</a></h5>
-
                                 <!-- List -->
                                 <ul class="nav nav-divider mb-2 mb-sm-3">
                                     <li class="nav-item">Air Conditioning</li>
@@ -785,7 +705,6 @@
                                 </ul>
                             </div>
                             <!-- Card body END -->
-
                             <!-- Card footer START-->
                             <div class="card-footer pt-0">
                                 <!-- Price and Button -->
@@ -804,13 +723,11 @@
                         </div>
                     </div>
                     <!-- Card item END -->
-
                     <!-- Card item START -->
                     <div class="col-md-6 col-xl-4">
                         <div class="card shadow p-2 pb-0 h-100">
                             <!-- Image -->
                             <img src="{{ asset('images/category/hotel/4by3/01.jpg') }}" class="rounded-2" alt="Card image">
-
                             <!-- Card body START -->
                             <div class="card-body px-3 pb-0">
                                 <!-- Rating and cart -->
@@ -818,10 +735,8 @@
                                     <a href="#" class="badge bg-dark text-white"><i class="bi fa-fw bi-star-fill me-2 text-warning"></i>4.0</a>
                                     <a href="#" class="h6 mb-0 z-index-2"><i class="bi fa-fw bi-bookmark"></i></a>
                                 </div>
-
                                 <!-- Title -->
                                 <h5 class="card-title"><a href="hotel-detail.html">Carina Beach Resort</a></h5>
-
                                 <!-- List -->
                                 <ul class="nav nav-divider mb-2 mb-sm-3">
                                     <li class="nav-item">Air Conditioning</li>
@@ -831,7 +746,6 @@
                                 </ul>
                             </div>
                             <!-- Card body END -->
-
                             <!-- Card footer START-->
                             <div class="card-footer pt-0">
                                 <!-- Price and Button -->
@@ -850,9 +764,7 @@
                         </div>
                     </div>
                     <!-- Card item END -->
-
                 </div> <!-- Row END -->
-
                 <!-- Pagination -->
                 <div class="row">
                     <div class="col-12">
@@ -870,9 +782,7 @@
                 </div>
             </div>
         </section>
-        <!-- =======================
-        Hotel grid END -->
-
+        <!-- Hotel grid END -->
     </main>
     <!-- MAIN CONTENT END -->
 </x-site>
